@@ -1,0 +1,14 @@
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\bin\Debug\net6.0\Descriptografia.exe
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\bin\Debug\net6.0\Descriptografia.deps.json
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\bin\Debug\net6.0\Descriptografia.runtimeconfig.json
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\bin\Debug\net6.0\Descriptografia.dll
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\bin\Debug\net6.0\ref\Descriptografia.dll
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\bin\Debug\net6.0\Descriptografia.pdb
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\obj\Debug\net6.0\Descriptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\obj\Debug\net6.0\Descriptografia.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\obj\Debug\net6.0\Descriptografia.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\obj\Debug\net6.0\Descriptografia.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\obj\Debug\net6.0\Descriptografia.dll
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\obj\Debug\net6.0\ref\Descriptografia.dll
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\obj\Debug\net6.0\Descriptografia.pdb
+C:\Users\unisanta\Desktop\Descriptografia\Descriptografia\obj\Debug\net6.0\Descriptografia.genruntimeconfig.cache

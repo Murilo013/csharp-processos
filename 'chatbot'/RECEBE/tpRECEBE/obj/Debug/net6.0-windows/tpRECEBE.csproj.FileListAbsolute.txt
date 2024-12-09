@@ -1,0 +1,51 @@
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.exe
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.deps.json
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.runtimeconfig.json
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.dll
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\bin\Debug\net6.0-windows\ref\tpRECEBE.dll
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.pdb
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.Form1.resources
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.dll
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\ref\tpRECEBE.dll
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.pdb
+C:\Users\unisanta\Desktop\tpRECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.genruntimeconfig.cache
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.exe
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.deps.json
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.runtimeconfig.json
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.dll
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\ref\tpRECEBE.dll
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.pdb
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.Form1.resources
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.dll
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\ref\tpRECEBE.dll
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.pdb
+C:\Users\unisanta\Desktop\CHATBOT\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\bin\Debug\net6.0-windows\tpRECEBE.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.Form1.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.GenerateResource.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\refint\tpRECEBE.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\tpRECEBE.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\RECEBE\tpRECEBE\obj\Debug\net6.0-windows\ref\tpRECEBE.dll

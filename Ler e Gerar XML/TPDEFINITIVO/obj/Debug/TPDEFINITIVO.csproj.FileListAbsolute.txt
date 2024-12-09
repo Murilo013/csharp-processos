@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TPDEFINITIVO\TPDEFINITIVO\bin\Debug\TPDEFINITIVO.exe.config
+C:\Users\unisanta\Desktop\TPDEFINITIVO\TPDEFINITIVO\bin\Debug\TPDEFINITIVO.exe
+C:\Users\unisanta\Desktop\TPDEFINITIVO\TPDEFINITIVO\bin\Debug\TPDEFINITIVO.pdb
+C:\Users\unisanta\Desktop\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.exe
+C:\Users\unisanta\Desktop\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\TPDEFINITIVO\TPDEFINITIVO\bin\Debug\TPDEFINITIVO.exe.config
+C:\Users\muril\OneDrive\Área de Trabalho\TPDEFINITIVO\TPDEFINITIVO\bin\Debug\TPDEFINITIVO.exe
+C:\Users\muril\OneDrive\Área de Trabalho\TPDEFINITIVO\TPDEFINITIVO\bin\Debug\TPDEFINITIVO.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.exe
+C:\Users\muril\OneDrive\Área de Trabalho\TPDEFINITIVO\TPDEFINITIVO\obj\Debug\TPDEFINITIVO.pdb

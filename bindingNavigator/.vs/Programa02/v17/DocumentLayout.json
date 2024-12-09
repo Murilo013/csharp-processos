@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\4semestre\\Praticas de programa\u00E7\u00E3o\\Programa02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5975F1A8-032C-459E-A65A-8A03556A647A}|Programa02\\Programa02.csproj|C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\4semestre\\Praticas de programa\u00E7\u00E3o\\Programa02\\programa02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5975F1A8-032C-459E-A65A-8A03556A647A}|Programa02\\Programa02.csproj|solutionrelative:programa02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5975F1A8-032C-459E-A65A-8A03556A647A}|Programa02\\Programa02.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\faculdade\\4semestre\\praticas de programa\u00E7\u00E3o\\programa02\\programa02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5975F1A8-032C-459E-A65A-8A03556A647A}|Programa02\\Programa02.csproj|solutionrelative:programa02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\4semestre\\Praticas de programa\u00E7\u00E3o\\Programa02\\Programa02\\Form1.cs",
+              "RelativeDocumentMoniker": "Programa02\\Form1.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\4semestre\\Praticas de programa\u00E7\u00E3o\\Programa02\\Programa02\\Form1.cs",
+              "RelativeToolTip": "Programa02\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:29:30.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\4semestre\\Praticas de programa\u00E7\u00E3o\\Programa02\\Programa02\\Form1.cs",
+              "RelativeDocumentMoniker": "Programa02\\Form1.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\4semestre\\Praticas de programa\u00E7\u00E3o\\Programa02\\Programa02\\Form1.cs [Design]",
+              "RelativeToolTip": "Programa02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:29:30.598Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

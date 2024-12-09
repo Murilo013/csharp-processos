@@ -1,0 +1,12 @@
+C:\Users\unisanta\Desktop\Programa02\Programa02\bin\Debug\BDLivros.mdb
+C:\Users\unisanta\Desktop\Programa02\Programa02\bin\Debug\Programa02.exe.config
+C:\Users\unisanta\Desktop\Programa02\Programa02\bin\Debug\Programa02.exe
+C:\Users\unisanta\Desktop\Programa02\Programa02\bin\Debug\Programa02.pdb
+C:\Users\unisanta\Desktop\Programa02\Programa02\obj\Debug\Programa02.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Programa02\Programa02\obj\Debug\Programa02.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Programa02\Programa02\obj\Debug\Programa02.Form1.resources
+C:\Users\unisanta\Desktop\Programa02\Programa02\obj\Debug\Programa02.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Programa02\Programa02\obj\Debug\Programa02.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Programa02\Programa02\obj\Debug\Programa02.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Programa02\Programa02\obj\Debug\Programa02.exe
+C:\Users\unisanta\Desktop\Programa02\Programa02\obj\Debug\Programa02.pdb

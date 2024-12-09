@@ -1,0 +1,51 @@
+C:\Users\unisanta\Desktop\tp\tp\bin\Debug\net6.0-windows\tp.exe
+C:\Users\unisanta\Desktop\tp\tp\bin\Debug\net6.0-windows\tp.deps.json
+C:\Users\unisanta\Desktop\tp\tp\bin\Debug\net6.0-windows\tp.runtimeconfig.json
+C:\Users\unisanta\Desktop\tp\tp\bin\Debug\net6.0-windows\tp.dll
+C:\Users\unisanta\Desktop\tp\tp\bin\Debug\net6.0-windows\ref\tp.dll
+C:\Users\unisanta\Desktop\tp\tp\bin\Debug\net6.0-windows\tp.pdb
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.Form1.resources
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.dll
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\ref\tp.dll
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.pdb
+C:\Users\unisanta\Desktop\tp\tp\obj\Debug\net6.0-windows\tp.genruntimeconfig.cache
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\bin\Debug\net6.0-windows\tp.exe
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\bin\Debug\net6.0-windows\tp.deps.json
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\bin\Debug\net6.0-windows\tp.runtimeconfig.json
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\bin\Debug\net6.0-windows\tp.dll
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\bin\Debug\net6.0-windows\ref\tp.dll
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\bin\Debug\net6.0-windows\tp.pdb
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.Form1.resources
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.dll
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\ref\tp.dll
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.pdb
+C:\Users\unisanta\Desktop\CHATBOT\ENVIA\tp\obj\Debug\net6.0-windows\tp.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\bin\Debug\net6.0-windows\tp.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\bin\Debug\net6.0-windows\tp.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\bin\Debug\net6.0-windows\tp.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\bin\Debug\net6.0-windows\tp.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\bin\Debug\net6.0-windows\tp.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.Form1.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.csproj.GenerateResource.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\refint\tp.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\tp.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\'chatbot'\ENVIA\tp\obj\Debug\net6.0-windows\ref\tp.dll

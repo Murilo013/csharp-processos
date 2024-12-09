@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\teste\teste\bin\Debug\teste.exe.config
+C:\Users\unisanta\Desktop\teste\teste\bin\Debug\teste.exe
+C:\Users\unisanta\Desktop\teste\teste\bin\Debug\teste.pdb
+C:\Users\unisanta\Desktop\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\teste\teste\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\teste\teste\obj\Debug\teste.exe
+C:\Users\unisanta\Desktop\teste\teste\obj\Debug\teste.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\MultiThreads\teste\bin\Debug\teste.exe.config
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\MultiThreads\teste\bin\Debug\teste.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\MultiThreads\teste\bin\Debug\teste.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\MultiThreads\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\MultiThreads\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\MultiThreads\teste\obj\Debug\teste.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Faculdade\4semestre\Praticas de programação\MultiThreads\teste\obj\Debug\teste.pdb

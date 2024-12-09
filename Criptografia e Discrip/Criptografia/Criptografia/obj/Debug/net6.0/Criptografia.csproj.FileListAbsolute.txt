@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\bin\Debug\net6.0\Criptografia.exe
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\bin\Debug\net6.0\Criptografia.deps.json
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\bin\Debug\net6.0\Criptografia.runtimeconfig.json
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\bin\Debug\net6.0\Criptografia.dll
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\bin\Debug\net6.0\ref\Criptografia.dll
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\bin\Debug\net6.0\Criptografia.pdb
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\Criptografia.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\Criptografia.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\Criptografia.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\Criptografia.dll
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\ref\Criptografia.dll
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\Criptografia.pdb
+C:\Users\unisanta\Desktop\Criptografia\Criptografia\obj\Debug\net6.0\Criptografia.genruntimeconfig.cache
